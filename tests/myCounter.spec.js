@@ -12,7 +12,7 @@ const myCounter = require('../src/myCounter');
   Comportamento:
   myCounter() // Retorna: [0, 2, 3, 1, 2, 3, 2, 2, 3, 3, 2, 3];
 
-  OBS: Lembre-se que você não precisa se preocupar com o describe e o it por enquanto, isso será aprendido posteriormente.
+  OBS: Lembre-se que você não precisa se preocupar com o describe e o it por enquanto,zz isso será aprendido posteriormente.
 */
 
 describe('8 - Implemente a função `myCounter`', () => {

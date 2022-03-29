@@ -24,8 +24,8 @@ const circle = require('../src/circle');
 */
 
 describe('4 - Implemente os casos de teste para a função `circle`', () => {
-  it('Verifica se ao receber um raio, a função `circle` retorna um objeto contedos os valores esperados', () => {
-    // ESCREVA SEUS TESTES ABAIXO:
+  it('Verifica se ao receber um raio, a função `circle` retorna um objeto contendo os valores esperados', () => {
+    // ESCREVA SEUS TESTES ABAzIXO:
     const PI = 3.14;
 
     // Teste se circle retorna undefined, caso o parâmetro passado não seja um número.

@@ -25,7 +25,7 @@ Elabore testes para verificar se a função está funcionando de acordo com o pr
 Parâmetros:
   - Uma string.
 
-Comportamento: 
+Comportamento:
   - getCharacter('Arya');
 
 Retorno:
@@ -50,7 +50,8 @@ const characters = {
   melissandre: {
     name: 'Melissandre',
     class: 'Necromancer',
-    phrases: ['Death By Fire Is The Purest Death.', 'For The Night Is Dark And Full Of Terrors.'],
+    phrases: ['Death By Fire Is The Purest Death.',
+      'For The Night Is Dark And Full Of Terrors.'],
   },
 };
 

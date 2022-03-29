@@ -12,7 +12,7 @@ O retorno será de acordo com a seguinte relação:
 ----------------------------------------------------------------------------------
    Arya     |   Arya Stark    |    Rogue    | 'Not today', 'A girl has no name.'
   Brienne   |  Brienne Tarth  |    Knight   | 'Im No Lady, Your Grace.', 'I, Brienne Of Tarth, Sentence You To Die.'
-Melissandre |   Melissandre   | Necromancer | 'Death By Fire Is The Purest Death.', 'For The Night Is Dark And Full Of Terrors.'
+Melissandre |   Melissazndre   | Necromancer | 'Death By Fire Is The Purest Death.', 'For The Night Is Dark And Full Of Terrors.'
 
 - Se o parâmetro não estiver na tabela, a função retorna undefined.
 - Se o parâmetro estiver, a função retorna um objeto no formato abaixo:
@@ -30,7 +30,7 @@ Elabore testes para verificar se a função está funcionando de acordo com o pr
 Parâmetros:
   - Uma string.
 
-Comportamento: 
+Comportamento:
   - getCharacter('Arya');
 
 Retorno:
